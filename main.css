@@ -1,0 +1,51 @@
+.mydesire {
+    text-align: center;
+    font-size: 30px;
+}
+
+#fullstacktitle {
+    color: purple; 
+}
+
+.icons {
+    font-size: 40px;
+    margin: 10px 30px;
+}
+
+#mail-button {
+    margin: 70px;
+}
+
+.bio {
+    font-size: 20px;
+}
+
+#projects {
+    padding: 0px 0px 40px 0px;
+}
+
+.WMP {
+    width: 60%;
+    height: auto;
+}
+
+#resumebutton {
+    align-content: center;
+}
+
+#messageinput {
+    padding: 10px 0px 80px 10px;
+}
+
+#footerpadding {
+    padding: 40px 0px 100px 0px;
+}
+
+
+
+
+/* #footer {
+    width: 100% !important;
+    margin: 0;
+    background-size: cover;
+} */
